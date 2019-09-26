@@ -23,9 +23,9 @@
 }
 
 /* BLOCCO STEPS */
-#steps .row > .left,
-#steps .row > .central,
-#steps .row > .right{
+#steps .row > .col-
+#steps .row > .col-,
+#steps .row > .col-{
   float: left;
   width: 33%;
 }
@@ -39,9 +39,9 @@
   text-align: center;
 }
 
-#why .row > .first,
-#why .row > .second,
-#why .row > .third {
+#why .row > .col-,
+#why .row > .col-,
+#why .row > .col- {
   width: 100%;
   margin-top: 80px;
 }
